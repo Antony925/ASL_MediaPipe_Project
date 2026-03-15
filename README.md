@@ -28,8 +28,7 @@ ASL_MediaPipe_Project
 │   ├── test_model.py          # for testing model with camera
 │   └── train_model.py         # neural network training
 │
-├── requirements.txt
-└── README.md
+└── requirements.txt
 ```
 
 ---
