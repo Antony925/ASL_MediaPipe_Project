@@ -228,4 +228,4 @@ Possible improvements include:
 
 # Author
 
-Antony, student of Kiev Mohyla Academy
+Antony, student of Kyiv Mohyla Academy
