@@ -211,19 +211,8 @@ After training:
 ```
 Test accuracy: 0.97
 ```
+(Accuracy depends on your own dataset quality and landmark detection!)
 
-(Accuracy depends on dataset quality and landmark detection.)
-
----
-
-# Technologies Used
-
-* Python
-* TensorFlow / Keras
-* MediaPipe
-* OpenCV
-* Scikit-learn
-* NumPy / Pandas
 
 ---
 
@@ -240,5 +229,4 @@ Possible improvements include:
 
 # Author
 
-Antony
-Computer Vision / Machine Learning project for ASL recognition
+Antony, student of Kiev Mohyla Academy
