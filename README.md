@@ -220,8 +220,7 @@ Test accuracy: 0.97
 
 Possible improvements include:
 
-* real-time gesture recognition from webcam
-* adding temporal models (LSTM)
+* real-time gesture recognition inside Android-app
 * training on dynamic gestures
 * improving dataset augmentation
 
